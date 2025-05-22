@@ -2,8 +2,6 @@ package com.alex.DSList.entities;
 
 import java.util.Objects;
 
-import com.alex.DSList.dto.GameList;
-
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

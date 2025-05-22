@@ -4,8 +4,6 @@ import java.util.Objects;
 
 import org.hibernate.annotations.ManyToAny;
 
-import com.alex.DSList.dto.GameList;
-
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;

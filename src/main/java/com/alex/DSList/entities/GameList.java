@@ -1,4 +1,4 @@
-package com.alex.DSList.dto;
+package com.alex.DSList.entities;
 
 import java.util.Objects;
 

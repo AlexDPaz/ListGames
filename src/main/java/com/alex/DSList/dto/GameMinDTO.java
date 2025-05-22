@@ -1,4 +1,6 @@
-package com.alex.DSList.entities;
+package com.alex.DSList.dto;
+
+import com.alex.DSList.entities.Game;
 
 public class GameMinDTO {
 
